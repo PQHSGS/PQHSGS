@@ -24,9 +24,9 @@
 
 <h3> 👨‍💻 Projects <h3>
 
-- [Quickdraw_VME](https://github.com/your-username/project-1): Drawing Objects using Hand Gesture
-- [Anomaly detection](https://github.com/your-username/project-2): Detecting Anomalies from time-series data
-- [Disease Diagnose](https://github.com/your-username/project-3): Predicting whether a person having 10-year CHD risk or not
+- [Quickdraw_VME](https://github.com/PQHSGS/Quick_draw-using-Air-gesture): Drawing Objects using Hand Gesture
+- [Anomaly detection](https://github.com/PQHSGS/PCA_application): Detecting Anomalies from time-series data
+- [Disease Diagnose](https://github.com/PQHSGS/CHD-predict): Predicting whether a person having 10-year CHD risk or not
   
 <h3>📫 How to reach me</h3>
 
