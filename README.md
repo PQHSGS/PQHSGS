@@ -4,7 +4,6 @@
 
 - 🤔 &nbsp; Exploring about Math's applications and Technology theories behind stuff
 - 🎓 &nbsp; Studying DS&AI at Hanoi University of Science and Technology.
-- 🌱 &nbsp; Learning more about Math and Machine Learning.
 - ✍️ &nbsp; Play guitar and martial arts as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
