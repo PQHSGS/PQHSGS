@@ -2,9 +2,9 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring about Math's applications and Technology theories behind stuff
-- 🎓 &nbsp; Studying DS&AI at Hanoi University of Science and Technology.
-- ✍️ &nbsp; Play guitar and swimming as hobbies.
+- 🤔 &nbsp; Exploring mathematical applications and the technology behind things
+- 🎓 &nbsp; Studying Data Science & AI at Hanoi University of Science and Technology
+- ✍️ &nbsp; Playing guitar and swimming as hobbies
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -22,13 +22,14 @@
   ![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle&logoColor=2C2255)
 
 <h3> 👨‍💻 Projects </h3>
-- [LLM Steering Bench](https://github.com/PQHSGS/SteerBench.git): Framework unify and evaluate 30+ LLM Steering methods from basic to SOTA 2026
-- [Predictive Data Debugging](https://github.com/PQHSGS/PDD): Predict and visualize how LLM Model behaviour & representation would change given a DPO dataset
-- [VME Assitant](https://github.com/PQHSGS/VME2025): Voice + RAG + Role-play chatbot helps providing information and knowledge for special events of Vietnamese Museum of Ethnology
-<h3>📫 How to reach me</h3>
+
+- [LLM Steering Bench](https://github.com/PQHSGS/SteerBench): Framework to unify and evaluate 30+ LLM steering methods, from basic approaches to SOTA methods in 2026
+- [Predictive Data Debugging](https://github.com/PQHSGS/PDD): Predicts and visualizes how LLM behavior and representations change given a DPO dataset
+- [VME Assistant](https://github.com/PQHSGS/VME2025): Voice + RAG + role-play chatbot providing information and knowledge for special events at the Vietnamese Museum of Ethnology
+
+<h3> 📫 How to reach me </h3>
 
 - ![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?logo=facebook&logoColor=white) [Phong Quân Trần](https://www.facebook.com/phongquan.tran.1)
 - ![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white) [tranphongquan23@gmail.com](mailto:tranphongquan23@gmail.com)
-
 
 ⭐️ From [PQHSGS](https://github.com/PQHSGS)
