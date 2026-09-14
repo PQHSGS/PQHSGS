@@ -21,10 +21,10 @@
   ![Google Colab](https://img.shields.io/badge/-Colab-333333?style=flat&logo=google-colab)
   ![Kaggle](https://img.shields.io/badge/-Kaggle-333333?style=flat&logo=kaggle&logoColor=2C2255)
 
-<h3> 👨‍💻 Projects <h3>
-- [LLM Steering Bench](https://github.com/PQHSGS/PCA_application): Framework unify and evaluate 30+ LLM Steering methods from basic to SOTA 2026
-- [Predictive Data Debugging](https://github.com/PQHSGS/CHD-predict): Predict and visualize how LLM Model behaviour & representation would change given a DPO dataset
-- [VME Assitant](https://github.com/PQHSGS/Quick_draw-using-Air-gesture): Voice + RAG + Role-play chatbot helps providing information and knowledge for special events of Vietnamese Museum of Ethnology
+<h3> 👨‍💻 Projects </h3>
+- [LLM Steering Bench](https://github.com/PQHSGS/SteerBench.git): Framework unify and evaluate 30+ LLM Steering methods from basic to SOTA 2026
+- [Predictive Data Debugging](https://github.com/PQHSGS/PDD): Predict and visualize how LLM Model behaviour & representation would change given a DPO dataset
+- [VME Assitant](https://github.com/PQHSGS/VME2025): Voice + RAG + Role-play chatbot helps providing information and knowledge for special events of Vietnamese Museum of Ethnology
 <h3>📫 How to reach me</h3>
 
 - ![Facebook](https://img.shields.io/badge/-Facebook-1DA1F2?logo=facebook&logoColor=white) [Phong Quân Trần](https://www.facebook.com/phongquan.tran.1)
